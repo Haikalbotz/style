@@ -35,8 +35,8 @@ logo ='''\033[1;97m  _____________ ____ ______
 /____//_/ /_/_____/_____/ 
 
 [01] Ubah Tampilan Termux
-[02] Install Bahan
-[00] Keluar
+[02] Instal Bahan
+[00] Minggat
 '''
 
 def main():
