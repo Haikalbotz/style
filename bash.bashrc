@@ -22,7 +22,7 @@ echo  -e $white'\e[1;31m                    `/ymMMMMMMMMmy/`
                 `/ymM+          oMmy:\033[1;97
                      \033[37;1m[\033[41;1m W E L C O M E \033[00;1m\033[37;1m]\033[31;1m'
 echo  -e $green'  '                  
-echo  -e $green'\e[1;32m                = [ Created By Ramdhan Ramadhian ] =
+echo  -e $green'\e[1;32m     = [ Created By Ramdhan Ramadhian ] =
            === [ User Termux Ultimate ] ==='
 echo  -e $green'  '                  
 echo  -e $green'  '        
